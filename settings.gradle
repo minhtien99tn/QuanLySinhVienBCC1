@@ -1,0 +1,2 @@
+rootProject.name='QuanLySinhVienBCC'
+include ':app'
